@@ -1,0 +1,5 @@
+<resources>
+    <!-- UI elements -->
+    <dimen name="widget_button_min_width">56dp</dimen>
+
+</resources>

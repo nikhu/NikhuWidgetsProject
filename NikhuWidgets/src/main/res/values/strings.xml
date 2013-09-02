@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NikhuWidgets</string>
+    <string name="dummy_help_text">Add Widget to your home screen.</string>
+    <string name="description_currency_code">USD/INR</string>
+    <string name="description_exchange_rate">68.61</string>
+</resources>
