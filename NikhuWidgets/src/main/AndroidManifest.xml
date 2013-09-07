@@ -30,6 +30,8 @@
                 android:resource="@xml/widgetinfo" />
         </receiver>
 
+        <service android:name=".NikhuWidgetsUpdateService"></service>
+
     </application>
 
 </manifest>
